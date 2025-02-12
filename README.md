@@ -10,7 +10,7 @@ Welcome ! This repository showcases my work in data science, including various p
 
 ## Skills
 
-- Python (Pandas, Matplotlib, Seaborn)
+- 'Python (Pandas, Matplotlib, Seaborn)'
 - Data Cleaning & Preprocessing
 - Data Visualization
 
